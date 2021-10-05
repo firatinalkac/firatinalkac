@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fırat İnalkaç</h1>
-<h3 align="center">A frontend developer from Turkey</h3>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <p align="left"> <img height="20" src="https://komarev.com/ghpvc/?username=firatinlkc" alt="firatinlkc" /> </p> 
 
@@ -16,7 +16,7 @@
 </a>
 
 <a href="https://www.freecodecamp.org/firatinlkc" target="blank"> 
-  <img height="20" src="https://img.shields.io/freecodecamp/points/firatinlkc?label=freeCodeCamp&logo=freecodecamp&logoColor=white" alt="Hackerrank" />
+  <img height="20" src="https://img.shields.io/freecodecamp/points/firatinlkc?label=freeCodeCamp&logo=freecodecamp&logoColor=white" alt="freeCodeCamp" />
 </a>  
 
 <a href="https://medium.com/@firatinalkac2" target="blank">
