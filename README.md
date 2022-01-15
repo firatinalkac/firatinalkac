@@ -75,18 +75,6 @@
   </a> 
 </p>
 
-
-### 📊 GitHub Analytics
-<p align="center">
-<a href="https://github.com/firatinlkc">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=firatinlkc&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="firatinlkc"/>
-  
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=firatinlkc&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="firatinlkc"/>
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=firatinlkc&theme=algolia" alt="firatinlkc" />
-</a>
-</p>
-
 ----
 
 Last Edited on: 05.10.2021
