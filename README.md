@@ -73,6 +73,15 @@
   <a href="https://sass-lang.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" alt="sass"/>
   </a> 
+  
+   <a href="https://nodejs.org/en/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" alt="nodejs"/>
+  </a>
+  
+   <a href="https://expressjs.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" alt="express"/>
+  </a>
+  
 </p>
 
 ----
