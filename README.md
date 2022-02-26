@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fırat İnalkaç</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="left"> <img height="20" src="https://komarev.com/ghpvc/?username=firatinlkc" alt="firatinlkc" /> </p> 
+<p align="left"> <img height="20" src="https://komarev.com/ghpvc/?username=firatinalkac" alt="firatinlkc" /> </p> 
 
 <a href="https://www.linkedin.com/in/inalkacfirat/" target="blank"> 
   <img height="20" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" />
